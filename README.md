@@ -104,7 +104,7 @@ git push -u origin main
 
 ## Reflexión sobre GitHub Copilot
 
-ESCRIBE AQUÍ 3 O 4 LÍNEAS CON TU EXPERIENCIA: qué sugirió bien Copilot, qué tuviste que corregir y cómo se relaciona con las tendencias emergentes de IA.
+Desde mi punto de vista, la IA de GitHub esta bien pero las acciones que tiene son mucho mas avanzadas como para un usuario inexperto, como por ejemplo las personas nuevas que recien comienzan con esto de las paginas web, si ven un programa donde le llegna a mandar instrucciones, se acomodaran a eso y no aprenderan... en conclusion, es aprender a utilizarlo para el conocimiento
 
 ## Referencias
 
