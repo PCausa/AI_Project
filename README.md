@@ -79,7 +79,9 @@ Accuracy: 100.00%
 Recommended Product: Producto A
 ```
 
-![Ejecución](capturas/06-ejecucion.png)
+![Instalación de dependencias](capturas/06-ejecucion.png)
+
+![Resultado de la ejecución](capturas/06-resultado.png)
 
 ### 7. Commit y push a GitHub
 
